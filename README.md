@@ -85,6 +85,7 @@ Ensure JavaFX is properly set up.
 Run the main file (Main.java or LoginPanel.java).
 
 ⭐ Future Improvements
+
 🎟️ Online Payment Integration
 
 📊 Admin Analytics & Statistics Dashboard
