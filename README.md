@@ -83,6 +83,7 @@ Open in your preferred Java IDE (like Eclipse or IntelliJ).
 Ensure JavaFX is properly set up.
 
 Run the main file (Main.java or LoginPanel.java).
+
 ⭐ Future Improvements
 🎟️ Online Payment Integration
 
